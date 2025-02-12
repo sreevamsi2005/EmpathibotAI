@@ -2,7 +2,7 @@
  🚀 EmpathibotAI – AI with Heart. AI that Cares.
 # EmpathibotAI
 
-![EmpathibotAI Banner](https://empathibot.netlify.app/banner.png)
+(![Screenshot (1)](https://github.com/user-attachments/assets/6b830c65-12a9-4095-b361-79fee17f897d))
 
 ## 🌟 Overview
 EmpathibotAI is an **emotionally intelligent AI chatbot** designed to provide human-like, empathetic interactions. Powered by **advanced NLP, deep learning, and sentiment analysis**, it recognizes user emotions and responds with appropriate tone, language, and support.
@@ -89,18 +89,6 @@ We welcome contributions! Follow these steps:
 
 ---
 
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🔗 Connect With Us
-📧 Email: [contact@empathibotai.com](mailto:contact@empathibotai.com)  
-🌐 Website: [EmpathibotAI](https://empathibot.netlify.app/)  
-🐦 Twitter: [@EmpathibotAI](https://twitter.com/EmpathibotAI)  
-📌 LinkedIn: [EmpathibotAI](https://linkedin.com/company/empathibotai)
-
----
 
 🚀 **EmpathibotAI – AI with Heart. AI that Cares.**
 
