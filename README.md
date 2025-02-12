@@ -2,7 +2,7 @@
  🚀 EmpathibotAI – AI with Heart. AI that Cares.
 # EmpathibotAI
 
-<img src="![Screenshot (1)](https://github.com/user-attachments/assets/6b830c65-12a9-4095-b361-79fee17f897d)" width="600">
+![Screenshot (1)](https://github.com/user-attachments/assets/6b830c65-12a9-4095-b361-79fee17f897d)
 
 
 ## 🌟 Overview
