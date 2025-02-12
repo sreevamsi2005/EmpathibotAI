@@ -24,8 +24,8 @@ EmpathibotAI is an **emotionally intelligent AI chatbot** designed to provide hu
 ---
 
 ## ⚙️ Tech Stack
-- **Frontend:** React.js, TailwindCSS, Bolt AI
-- **Backend:** Node.js, Express, Bolt AI APIs
+- **Frontend:** React.js, TailwindCSS
+- **Backend:** Node.js, Express
 - **AI & NLP:** OpenAI GPT, Hugging Face Transformers, Sentiment Analysis, Bolt AI
 - **Database:** Firebase / MongoDB
 - **Deployment:** Netlify, Vercel
